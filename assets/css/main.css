@@ -3938,3 +3938,7 @@ input, select, textarea {
 .owl-dots .active > span{
 	background-color: white !important;
 }
+
+.bolder-white{
+	color: white !important;
+}
