@@ -3126,7 +3126,7 @@ input, select, textarea {
 			}
 
 			.spotlights > section > .content {
-				padding: 3em 2em 1em 2em ;
+				padding: 4em 2em 2em 2em ;
 			}
 
 		}
@@ -3933,6 +3933,7 @@ input, select, textarea {
 
 .owl-dot > span{
 	background-color: rgba(255, 255, 255, 0.3) !important;
+	border: none !important;
 }
 
 .owl-dots .active > span{
